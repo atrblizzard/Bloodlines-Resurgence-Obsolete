@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/Inventory_Images/Armors/BrujahF/Brujah_F_A5"
+	"$translucent" 1
+	"$additive" 1
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

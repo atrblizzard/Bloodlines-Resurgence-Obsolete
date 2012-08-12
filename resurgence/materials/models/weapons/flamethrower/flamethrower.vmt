@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/flamethrower/flamethrower"
+	"$envmapmask" "models/weapons/flamethrower/flamethrower_ref"
+	"$envmap" "env_cubemap"
+	
+}

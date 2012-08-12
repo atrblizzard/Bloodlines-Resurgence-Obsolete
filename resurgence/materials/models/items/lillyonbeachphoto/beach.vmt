@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/lillyonbeachphoto/beach"
+	"$envmapmask" "models/items/lillyonbeachphoto/beach_ref"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{ 114 102 75 }"
+	
+	"$envmapmode" "1"
+}

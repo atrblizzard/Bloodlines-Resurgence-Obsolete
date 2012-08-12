@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/crosshairs/crosshair_rt"
+	"$additive" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+}

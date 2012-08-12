@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/anaconda/anaconda"
+	"$envmapmask" "models/weapons/anaconda/Anaconda_Spec"
+	"$envmap"    "env_cubemap"
+	"$envmaptint" "{ 114 102 75 }"
+	"$envmapmode" "1"
+}

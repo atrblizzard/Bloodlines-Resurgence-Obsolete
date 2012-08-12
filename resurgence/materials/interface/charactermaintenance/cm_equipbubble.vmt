@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "Interface/CharacterMaintenance/cm_EquipBubble"
+	"$additive" "1"
+	"$ignorez"  1
+}

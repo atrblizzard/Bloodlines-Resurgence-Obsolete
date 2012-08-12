@@ -1,0 +1,96 @@
+WeaponData
+{
+	// Weapon characteristics:
+	"Damage"			"26"		// damage per bullet
+	"Bullets"			"1"		// bullets per shoot
+	"CycleTime"			"0.075"		// time between shoots
+
+	"BuiltRightHanded"		"0"
+	
+	// Weapon data is loaded by both the Game and Client DLLs.
+	"printname"			"Braddock 9mm"
+	"viewmodel"			"models/weapons/submachine_mac10/view/v_submachine_mac10.mdl"
+	"playermodel"			"models/weapons/submachine_mac10/wield/w_m_submachine_mac10.mdl"
+	"PlayerAnimationExtension"	"mac10"
+	
+	"fov"				"69"
+
+	"bucket"			"1"
+	"bucket_position"		"0"
+
+	"clip_size"			"30"
+	"NumClips"			"3"
+
+	
+	"primary_ammo"			"mp5"
+	"secondary_ammo"		"None"
+
+	"weight"			"25"
+	"item_flags"			"0"
+
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+	SoundData
+	{
+		"reload"			"Mac10.Reload"
+		"empty"				"Mac10.Empty"
+		"single_shot"			"Mac10.Fire"
+	}
+
+	// Weapon Sprite data is loaded by the Client DLL.
+	TextureData
+	{
+		"weapon"
+		{
+				"file"	"hud/Inventory_Images/Weapons_Ranged/Mac_10_SEL"
+				"x"		"0"
+				"y"		"0"
+				"width"	"100"
+				"height"	"64"
+		}
+		"weapon_s"
+		{	
+				"file"	"hud/Inventory_Images/Weapons_Ranged/Mac_10"
+				"x"		"0"
+				"y"		"0"
+				"width"	"100"
+				"height"	"64"
+		}
+		"ammo"
+		{
+				"file"	"hud/Inventory_Images/weapons_ranged/ammo/mac_10_ammo"
+				"x"		"0"
+				"y"		"0"
+				"width"	"100"
+				"height"	"64"
+		}
+		"crosshair"
+		{
+				"file"		"sprites/crosshairs"
+				"x"		"0"
+				"y"		"48"
+				"width"		"24"
+				"height"	"24"
+		}
+		"autoaim"
+		{
+				"file"		"sprites/crosshairs"
+				"x"			"0"
+				"y"			"48"
+				"width"		"24"
+				"height"	"24"
+		}
+	}
+	ModelBounds
+	{
+		Viewmodel
+		{
+			Mins	"-10 -4 -13"
+			Maxs	"21 9 -1"
+		}
+		World
+		{
+			Mins	"-10 -7 -6"
+			Maxs	"22 8 9"
+		}
+	}
+}

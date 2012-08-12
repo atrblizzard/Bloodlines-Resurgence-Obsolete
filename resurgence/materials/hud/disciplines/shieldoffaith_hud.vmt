@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$additive" 1
+	"$baseTexture" "hud/Disciplines/ShieldOfFaith_Base"
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

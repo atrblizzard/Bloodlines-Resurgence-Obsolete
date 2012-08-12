@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$color" "[1 1 1]"
+	"$baseTexture" "models/weapons/disciplines/bloodheal/info/bloodheal"
+	"$selfIllum" 0
+	"$translucent" 1
+	"$alpha" 0
+}

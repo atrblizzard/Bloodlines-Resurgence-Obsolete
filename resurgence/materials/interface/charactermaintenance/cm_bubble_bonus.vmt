@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\charactermaintenance\cm_bubble_bonus"
+	"$translucent" "1"
+	"$ignorez" "1"
+
+}

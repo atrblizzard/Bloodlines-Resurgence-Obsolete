@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Hands/female/ventrue/tennis_bracelet"
+	"$translucent" 1
+}

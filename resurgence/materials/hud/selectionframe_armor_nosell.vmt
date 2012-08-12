@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/SelectionFrame_Armor_NoSELL"
+	"$translucent" 1
+	"$additive" 0
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

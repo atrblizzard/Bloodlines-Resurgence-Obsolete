@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/nameplate/nameplate"
+	"$surfaceprop" "default"
+}

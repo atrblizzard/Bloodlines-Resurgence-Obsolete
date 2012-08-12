@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/catagory_icons/d_malkavian"
+	"$translucent" "1"
+	"$ignorez" "1"
+}

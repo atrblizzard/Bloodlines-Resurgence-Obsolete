@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/occult/organ"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/items/occult/organ_ref"
+	"$surfaceprop" "default"
+}

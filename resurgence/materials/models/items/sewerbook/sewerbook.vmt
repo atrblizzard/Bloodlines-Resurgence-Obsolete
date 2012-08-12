@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/sewerbook/sewerbook"
+	"$surfaceprop" "default"
+}

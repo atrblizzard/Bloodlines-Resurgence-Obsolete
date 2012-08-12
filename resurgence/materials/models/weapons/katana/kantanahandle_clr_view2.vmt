@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/katana/kantanahandle_clr_view2"
+	"$surfaceprop" "metal"
+}

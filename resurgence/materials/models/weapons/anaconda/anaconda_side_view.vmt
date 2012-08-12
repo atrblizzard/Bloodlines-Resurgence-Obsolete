@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/anaconda/Anaconda_Side_View"
+	"$envmapmask" "models/weapons/anaconda/Anaconda_Spec_View"
+	"$multipass" "1"
+	"$envmap" "env_cubemap"
+	"$envmapmode" "1"
+}

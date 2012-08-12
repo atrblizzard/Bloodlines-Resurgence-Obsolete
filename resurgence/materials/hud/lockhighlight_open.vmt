@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "hud/LockHighlight_OPEN"
+	"$selfillum" "1"
+	"$selfillumtint" "1.0"
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar" "$alpha"
+			"sinemin" 0.15
+			"sinemax" 0.45
+			"sineperiod" 1.50
+		}
+	}
+}

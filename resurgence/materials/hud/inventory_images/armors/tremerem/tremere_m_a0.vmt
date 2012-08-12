@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/Inventory_Images/Armors/TremereM/Tremere_M_A0"
+	"$translucent" 1
+	"$additive" 0
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

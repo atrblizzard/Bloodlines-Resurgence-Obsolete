@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/submachine_uzi/uzi"
+	"$envmapmask" "models/weapons/submachine_uzi/uzi_ref"
+	"$envmap"    "env_cubemap"
+}

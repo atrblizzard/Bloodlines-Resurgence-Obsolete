@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$additive" 1
+	"$basetexture" "hud/Lockpick_ProgressLiquid"
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

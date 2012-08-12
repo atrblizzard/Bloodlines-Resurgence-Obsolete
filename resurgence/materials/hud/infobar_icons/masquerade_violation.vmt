@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/infobar_icons/masquerade_violation"
+	"$ignorez" "1"
+}

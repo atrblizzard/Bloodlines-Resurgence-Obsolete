@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/supershotgun/supershotgun"
+	"$envmapmask" "models/weapons/supershotgun/supershotgun_ref"
+	"$envmap"    "env_cubemap"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/katana/KantanaTsubla_Clr_Wield"
+	"$envmapmask" "models/weapons/katana/KantanaTsubla_spec_wield"
+	"$envmap"    "env_cubemap"
+	"$envmaptint" "{ 114 102 75 }"
+	"$envmapmode" "1"
+}

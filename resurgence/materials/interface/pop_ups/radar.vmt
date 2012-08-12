@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\pop_ups\radar"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+
+}

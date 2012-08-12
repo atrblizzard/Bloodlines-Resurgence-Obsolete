@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/horrortape_2/horrortape_2"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/items/horrortape_2/horrortape_2_ref"
+}

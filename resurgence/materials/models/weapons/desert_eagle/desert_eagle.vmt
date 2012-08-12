@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/desert_eagle/desert_eagle"
+	"$envmapmask" "models/weapons/desert_eagle/desert_eagle_ref"
+	"$envmap" "env_cubemap"
+}

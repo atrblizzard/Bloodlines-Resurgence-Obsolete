@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/catagory_icons/d_toreador"
+	"$translucent" "1"
+	"$ignorez" "1"
+}

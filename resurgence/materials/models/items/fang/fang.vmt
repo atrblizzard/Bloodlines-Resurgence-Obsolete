@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/fang/fang"
+	"$alphatest" "1"
+	"$nocull" "1"
+	"$surfaceprop" "wood"
+}

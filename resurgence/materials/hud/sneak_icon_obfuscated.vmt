@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/sneak_icon_obfuscated"
+	"$additive" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "0"
+}

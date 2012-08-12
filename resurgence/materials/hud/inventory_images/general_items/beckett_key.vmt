@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$additive" 0
+	"$basetexture" "hud/Inventory_Images/General_Items/beckett_key_bw"
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

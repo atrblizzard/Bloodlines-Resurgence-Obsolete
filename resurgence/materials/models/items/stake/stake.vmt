@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/stake/stake"
+	"$surfaceprop" "wood"
+}

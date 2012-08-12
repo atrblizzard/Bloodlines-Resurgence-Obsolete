@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/occult_alamut/alamut"
+	"$nocull" "1"
+	"$surfaceprop" "wood"
+}

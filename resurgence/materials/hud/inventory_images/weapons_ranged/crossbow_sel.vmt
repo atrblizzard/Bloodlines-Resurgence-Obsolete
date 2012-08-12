@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/inventory_images/weapons_ranged/crossbow"
+	"$translucent" 0
+	"$additive" 0
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

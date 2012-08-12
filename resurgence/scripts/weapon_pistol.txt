@@ -1,0 +1,96 @@
+WeaponData
+{
+	// Weapon characteristics:
+	"Damage"			"54"		// damage per bullet
+	"Bullets"			"1"		// bullets per shoot
+	"CycleTime"			"0.225"		// time between shoots
+
+	"BuiltRightHanded"		"0"
+	
+	// Weapon data is loaded by both the Game and Client DLLs.
+	"printname"			"#SDK_Weapon_Pistol"
+	"viewmodel"			"models/weapons/pistol_glock/view/v_pistol_glock.mdl"
+	"playermodel"			"models/weapons/pistol_glock/wield/w_m_pistol_glock.mdl"
+	"PlayerAnimationExtension"	"pistol"
+
+	"fov"				"69"
+	
+	"bucket"			"0"
+	"bucket_position"		"0"
+
+	"clip_size"			"8"
+	"NumClips"			"1"
+
+	
+	"primary_ammo"			"pistol"
+	"secondary_ammo"		"None"
+
+	"weight"			"25"
+	"item_flags"			"0"
+
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+	SoundData
+	{
+		"reload"			"Glock.Reload"
+		"empty"				"Glock.Empty"
+		"single_shot"			"Glock.Fire"
+	}
+
+	// Weapon Sprite data is loaded by the Client DLL.
+	TextureData
+	{
+		"weapon"
+		{
+				"file"	"hud/Inventory_Images/Weapons_Ranged/Glock_SEL"
+				"x"		"0"
+				"y"		"0"
+				"width"	"100"
+				"height"	"64"
+		}
+		"weapon_s"
+		{	
+				"file"	"hud/Inventory_Images/Weapons_Ranged/Glock"
+				"x"		"0"
+				"y"		"0"
+				"width"	"100"
+				"height"	"64"
+		}
+		"ammo"
+		{
+				"file"	"hud/Inventory_Images/weapons_ranged/ammo/glock_ammo"
+				"x"		"0"
+				"y"		"0"
+				"width"	"100"
+				"height"	"64"
+		}
+		"crosshair"
+		{
+				"file"		"sprites/crosshairs"
+				"x"		"0"
+				"y"		"48"
+				"width"		"24"
+				"height"	"24"
+		}
+		"autoaim"
+		{
+				"file"		"sprites/crosshairs"
+				"x"			"0"
+				"y"			"48"
+				"width"		"24"
+				"height"	"24"
+		}
+	}
+	ModelBounds
+	{
+		Viewmodel
+		{
+			Mins	"-10 -4 -13"
+			Maxs	"21 9 -1"
+		}
+		World
+		{
+			Mins	"-10 -7 -6"
+			Maxs	"22 8 9"
+		}
+	}
+}

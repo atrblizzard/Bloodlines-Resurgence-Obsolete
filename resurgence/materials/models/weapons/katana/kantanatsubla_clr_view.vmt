@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/katana/KantanaTsubla_Clr_View"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{ 78 99 84 }"
+
+	"$envmaptint" "[ 1 .8 0 ]"
+
+//	"$multipass" 1
+}

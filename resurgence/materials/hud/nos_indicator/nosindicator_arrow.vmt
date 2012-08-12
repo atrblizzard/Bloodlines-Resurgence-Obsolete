@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/nos_indicator/nosindicator_arrow"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+	"$additive" "1"
+	"$vertexalpha" "1"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/cards/black"
+	"$nocull" "1"
+}

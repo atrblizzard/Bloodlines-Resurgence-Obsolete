@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/pendant/pendant"
+	"$envmapmask" "models/items/pendant/pendant_ref"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{ 114 102 75 }"
+	"$envmapmode" "1"
+}

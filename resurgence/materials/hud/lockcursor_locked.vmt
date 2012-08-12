@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/LockCursor_LOCKED"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "hud/context_icons/context_icon_ring"
+	"$translucent" "1"
+}

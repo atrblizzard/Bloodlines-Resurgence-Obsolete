@@ -1,0 +1,4 @@
+/src/*.sdf
+/build
+/src/ipch
+/src/*.suo

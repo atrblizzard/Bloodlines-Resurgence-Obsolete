@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/occult/marble"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$envmapmask" "effects/ref_75"
+	"$translucent" 1
+}

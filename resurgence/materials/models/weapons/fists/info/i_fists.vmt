@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/fists/info/i_fists"
+	"$translucent" "1"
+}

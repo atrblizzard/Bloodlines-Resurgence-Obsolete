@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/katana/KantanaBlade_Clr_View"
+
+	"$envmap" "env_cubemap"
+	"$envmapmode" 1
+}

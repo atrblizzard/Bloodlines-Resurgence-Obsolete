@@ -1,0 +1,11 @@
+UnlitGeneric
+{
+	"$basetexture" "models/scenery/furniture/computer/screen"
+	"$model" "1"
+	"Proxies"
+	{
+		"TextConsole"
+		{
+		}
+	}
+}

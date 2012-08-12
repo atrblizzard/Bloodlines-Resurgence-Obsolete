@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/rifle_rem700/rifle_casing"
+	"$envmap" "env_cubemap"
+}

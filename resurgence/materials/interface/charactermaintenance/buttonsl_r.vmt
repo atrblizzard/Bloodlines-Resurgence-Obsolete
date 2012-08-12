@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\charactermaintenance\buttonsl_r"
+	"$translucent" "1"
+	"$ignorez" "1"
+
+}

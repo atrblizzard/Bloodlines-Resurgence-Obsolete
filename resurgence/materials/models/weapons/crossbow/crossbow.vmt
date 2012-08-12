@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/crossbow/crossbow"
+	"$envmapmask" "models/weapons/crossbow/crossbowenvmask"
+	"$envmap" "env_cubemap"
+}

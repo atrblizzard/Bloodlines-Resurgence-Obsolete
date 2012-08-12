@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\charactermaintenance\infowindow2"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$additive" "0"
+	"$vertexcolor" "1"
+}

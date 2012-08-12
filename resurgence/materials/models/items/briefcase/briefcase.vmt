@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/briefcase/briefcase"
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{ 114 102 75 }"
+	"$envmapmask" "models/items/briefcase/briefcase_ref"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "Interface/CharacterMaintenance/cm_fogging_solid"
+	"$ignorez"  1
+	"$translucent" 1
+}

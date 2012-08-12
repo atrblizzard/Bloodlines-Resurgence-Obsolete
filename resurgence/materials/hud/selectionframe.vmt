@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/selectionframe"
+	"$translucent" "1"
+	"$ignorez" "1"
+}

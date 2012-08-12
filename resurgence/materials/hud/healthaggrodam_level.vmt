@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/healthaggrodam_level"
+	"$translucent" 1
+	"$additive" "1"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$ignorez" "1"
+}

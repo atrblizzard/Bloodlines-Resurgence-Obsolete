@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\pop_ups\disciplines2"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+
+}

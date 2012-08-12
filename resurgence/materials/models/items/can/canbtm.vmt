@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/scenery/misc/bottles/canbtm"
+	"$surfaceprop" "metalvent"
+
+	"$envmapmask" "effects/ref_25"
+	"$envmap" "env_cubemap"
+}

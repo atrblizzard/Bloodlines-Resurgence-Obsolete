@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$additive" 1
+	"$basetexture" "hud/HealthGraphic"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$ignorez" 1
+}

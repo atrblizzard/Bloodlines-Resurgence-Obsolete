@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/inventory_images/armors/vest_overlay"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+}

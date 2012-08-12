@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\pop_ups\tutorial_popup"
+	"$translucent" "1"
+	"$ignorez" "1"
+
+}

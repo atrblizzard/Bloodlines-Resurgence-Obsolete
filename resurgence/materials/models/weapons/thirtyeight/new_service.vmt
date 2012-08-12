@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/thirtyeight/new_service"
+	"$envmapmask" "models/weapons/thirtyeight/new_service_Spec"
+	"$envmap"    "env_cubemap"
+}

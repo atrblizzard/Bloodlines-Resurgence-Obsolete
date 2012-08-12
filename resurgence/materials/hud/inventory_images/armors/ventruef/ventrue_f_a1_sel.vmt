@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/Inventory_Images/Armors/VentrueF/Ventrue_F_A1"
+	"$translucent" 0
+	"$additive" 0
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

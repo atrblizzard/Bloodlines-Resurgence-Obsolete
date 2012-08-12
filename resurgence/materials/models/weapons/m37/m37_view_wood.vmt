@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/m37/M37_view_wood"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "effects/ref_25"
+	"$envmapmode" 1
+}

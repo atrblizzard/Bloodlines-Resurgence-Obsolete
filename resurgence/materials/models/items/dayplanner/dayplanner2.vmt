@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/dayplanner/dayplanner2"
+	"$nocull" "1"
+}

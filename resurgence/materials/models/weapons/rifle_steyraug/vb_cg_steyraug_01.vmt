@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/rifle_steyraug/vb_cg_steyraug_01"
+	"$envmapmask" "models/weapons/rifle_steyraug/steyraug_ref"
+	"$envmap" "env_cubemap"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/newspaper/newspaper2"
+	"$surfaceprop" "wood"
+}

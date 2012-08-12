@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/infobar_icons/experience_rewarded"
+	"$ignorez" "1"
+}

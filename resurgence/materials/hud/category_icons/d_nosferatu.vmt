@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/catagory_icons/d_nosferatu"
+	"$translucent" "1"
+	"$ignorez" "1"
+}

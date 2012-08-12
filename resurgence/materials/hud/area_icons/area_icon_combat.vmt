@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/area_icons/area_icon_combat"
+	"$translucent" "1"
+	"$additive" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

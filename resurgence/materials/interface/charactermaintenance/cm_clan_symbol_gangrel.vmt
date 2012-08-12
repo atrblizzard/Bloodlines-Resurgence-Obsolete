@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\charactermaintenance\cm_clan_symbol_gangrel"
+	"$additive" "1"
+	"$ignorez" "1"
+
+}

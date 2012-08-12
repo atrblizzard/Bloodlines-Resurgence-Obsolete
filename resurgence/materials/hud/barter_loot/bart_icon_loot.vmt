@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/Barter_Loot/Bart_Icon_Loot"
+	"$translucent" 1
+	"$additive" 0
+	"$vertexcolor" 1
+	"$ignorez" 1
+}
+}

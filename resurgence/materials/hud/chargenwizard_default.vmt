@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+//	"$nomip 1"
+	"$translucent" 0
+	"$additive" 0
+	"$basetexture" "hud/CharGenWizard_Default"
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

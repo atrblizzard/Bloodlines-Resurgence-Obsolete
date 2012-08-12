@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "Interface/CharacterMaintenance/cm_EquipSellArmor_UP"
+	"$additive" "1"
+	"$ignorez"  1
+}

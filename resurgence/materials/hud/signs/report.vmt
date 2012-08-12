@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/signs/report"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+}

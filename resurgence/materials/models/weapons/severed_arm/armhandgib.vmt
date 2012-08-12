@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/character/gibs/armhandgib"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{ 130 29 29 }"
+	"$envmapmask" "models/character/gibs/armhandgibenvmask"
+}

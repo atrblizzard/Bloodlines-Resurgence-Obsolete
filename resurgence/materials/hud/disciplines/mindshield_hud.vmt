@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$additive" 1
+	"$baseTexture" "hud/Disciplines/MindShield_Base"
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$additive" 1
+	"$baseTexture" "hud/AmmoDis_Frame_Bottom_Ammo"
+	"$ignorez" 1
+}

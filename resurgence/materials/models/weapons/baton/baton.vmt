@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/baton/baton"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/weapons/baton/batonenvmask"
+}

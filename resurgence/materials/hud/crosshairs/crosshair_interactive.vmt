@@ -1,0 +1,19 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/crosshairs/crosshair_interactive"
+	"$translucent" "1"
+	"$additive" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "30"
+		"animationNoWrap" "1"
+		}
+	}
+}

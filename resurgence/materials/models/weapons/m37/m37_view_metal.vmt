@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/m37/M37_view_metal"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/weapons/M37/M37_View_Metal_EnvMask"
+	"$envmapmode" 1
+//	"$multipass" 1
+}

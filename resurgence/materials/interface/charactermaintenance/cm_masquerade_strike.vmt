@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\charactermaintenance\cm_masquerade_strike"
+	"$translucent" "1"
+	"$ignorez" "1"
+
+}

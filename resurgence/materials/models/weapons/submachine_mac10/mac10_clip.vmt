@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/submachine_mac10/mac10_clip"
+	"$envmapmask" "models/weapons/submachine_mac10/mac10_clip_env"
+	"$envmap" "env_cubemap"
+}

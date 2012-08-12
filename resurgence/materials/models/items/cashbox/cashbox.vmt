@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/items/cashbox/cashbox"
+	"$envmapmask" "models/items/cashbox/cashbox_ref"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{ 114 102 75 }"
+	"$envmapmode" "1"
+}

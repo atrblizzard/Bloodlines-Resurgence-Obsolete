@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/Inventory_Images/Armors/GangrelF/Gangrel_F_A2"
+	"$translucent" 0
+	"$additive" 0
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

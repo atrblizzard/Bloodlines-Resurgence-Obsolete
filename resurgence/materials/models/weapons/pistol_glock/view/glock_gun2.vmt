@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$color" "[1 1 1]"
+	"$baseTexture" "models/weapons/pistol_glock/View/glock_gun2"
+	"$envmapmask" "models/weapons/pistol_glock/View/glock_gun_EnvMask"
+	"$envmap" "env_cubemap"
+	"$envmapmode" 1
+}

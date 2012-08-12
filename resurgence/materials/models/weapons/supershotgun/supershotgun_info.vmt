@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/weapons/supershotgun/supershotgun_world"
+	"$envmapmask" "models/weapons/supershotgun/supershotgun_ref"
+	"$envmap"    "env_cubemap"
+	"$envmaptint" "{ 114 102 75 }"
+	"$envmapmode" "1"
+}

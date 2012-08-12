@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$color" "[1 1 1]"
+	"$baseTexture" "models/weapons/baseball_bat/bat01"
+	"$envmapmask" "models/weapons/baseball_bat/bat01_spec"
+	"$envmap"    "env_cubemap"
+	"$envmaptint" "{ 114 102 75 }"
+	"$envmapmode" "1"
+}

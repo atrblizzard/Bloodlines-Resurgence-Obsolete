@@ -1,0 +1,106 @@
+"Glock.Fire"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/glock/attack_1.wav"
+}
+
+"Glock.Reload"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/glock/reload.wav"
+}
+
+"Glock.Empty"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/glock/empty.wav"
+}
+
+// Mac10
+
+"Mac10.Fire"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/mac_10/attack_1.wav"
+}
+
+"Mac10.Reload"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/mac_10/reload.wav"
+}
+
+"Mac10.Empty"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/mac_10/empty.wav"
+}
+
+//Supershotgun
+
+"Super_Shotgun.Fire"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/super_shotgun/attack_1.wav"
+	"rndwave"
+//	{
+//		"wave"		")weapons/ranged/super_shotgun/attack_1.wav"
+//		"wave"		")weapons/ranged/super_shotgun/attack_2.wav"
+//	}
+}
+
+"Super_Shotgun.Reload"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/super_shotgun/reload.wav"
+}
+
+"Super_Shotgun.Empty"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")weapons/ranged/super_shotgun/empty.wav"
+}
+
+// M37
+
+"M37.Fire"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")Weapons/Ranged/Shotgun/Attack_1.wav"
+}
+
+"M37.Reload"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")Weapons/Ranged/Shotgun/reload.wav"
+}
+
+"M37.Empty"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"		"SNDLVL_TALKING"
+	"volume"		"0.65"
+	"wave"		")Weapons/Ranged/Shotgun/Empty.wav"
+}

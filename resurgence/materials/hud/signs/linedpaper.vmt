@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/items/linedpaper/linedpaper"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

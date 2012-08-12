@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/weapons/projectile/bullet01"
+	"$selfillum" "1"
+	"$surfaceprop" "metal"
+}

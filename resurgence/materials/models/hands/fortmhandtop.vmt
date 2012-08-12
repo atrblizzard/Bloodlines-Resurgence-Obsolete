@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$color" "[1 1 1]"
+	"$baseTexture" "models/Hands/FortMHandtop"
+	"$envmapmask" "models/Hands/FortMHandtop_EnvMask"
+	"$envmap" "env_cubemap"
+	"$selfIllum" 1
+}

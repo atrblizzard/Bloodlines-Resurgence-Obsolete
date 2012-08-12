@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/Inventory_Images/General_Items/Pearl_of_Dubai"
+	"$translucent" 0
+	"$additive" 0
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

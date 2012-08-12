@@ -1,0 +1,8 @@
+"chapters"
+{
+	1	"console_background"
+}
+"BackgroundMaps"
+{
+	1	"console_background"
+}

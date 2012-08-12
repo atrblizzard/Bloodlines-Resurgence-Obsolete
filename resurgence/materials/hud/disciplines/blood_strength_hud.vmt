@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture" "hud/disciplines/blood_strength_base"
+	"$additive" 1
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+}

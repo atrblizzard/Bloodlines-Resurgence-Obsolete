@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\charactermaintenance\experience"
+	"$translucent" "1"
+	"$ignorez" "1"
+
+}

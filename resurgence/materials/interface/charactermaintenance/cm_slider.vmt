@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"interface\charactermaintenance\cm_slider"
+	"$translucent" "1"
+	"$ignorez" "1"
+
+}
